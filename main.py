@@ -54,4 +54,4 @@ while True:
             break
 
     else:
-        print("In
+        print("Invalid input")
